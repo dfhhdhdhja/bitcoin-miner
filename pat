@@ -1,5 +1,4 @@
 
-if game.PlaceId == 2629642516 then
    print(game.Players.LocalPlayer.PlotNum.Value.. " is lot num.")
 
 
@@ -654,5 +653,4 @@ tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.Humanoid
 
 
 
-    --placeid end
-    end
+
